@@ -1,4 +1,4 @@
-# control 4 Weather
+# Control 4 Weather
 
 A iOS Native app that demos using Operation Queues and some other cool Swift functional code using the [OpenWeatherMap API](http://openweathermap.org/api) within an iOS application.
 
