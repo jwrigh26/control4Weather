@@ -22,7 +22,7 @@ That's it! The challenge was to use only mysefl to write this project. I have to
 
 ## Authors
 
-* **Justin Wright** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Justin Wright** - *Initial work* - [jwrigh26](https://github.com/jwrigh26)
 
 See also the list of [contributors](https://github.com/jwrigh26/control4Weather/contributors) who participated in this project.
 
