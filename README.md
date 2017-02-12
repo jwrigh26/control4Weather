@@ -2,6 +2,11 @@
 
 A iOS Native app that demos using Operation Queues and some other cool Swift functional code using the [OpenWeatherMap API](http://openweathermap.org/api) within an iOS application.
 
+<p align="center">
+  <img src="assets/main.jpg" width="250"/>
+  <img src="assets/details.jpg" width="250"/>
+</p>
+
 ## Getting Started
 
 ### Installing
