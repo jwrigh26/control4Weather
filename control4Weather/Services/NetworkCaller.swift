@@ -31,7 +31,7 @@ class NetworkCaller {
   
   init() {
     let configuration = URLSessionConfiguration.default
-    configuration.timeoutIntervalForRequest = 5.0
+    configuration.timeoutIntervalForRequest = 2.0
     session = URLSession(configuration: configuration)
   }
   
