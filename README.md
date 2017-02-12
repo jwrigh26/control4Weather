@@ -1,6 +1,6 @@
 # control4Weather
 
-A simple demo app using the [OpenWeatherMap API](http://openweathermap.org/api) within an iOS application.
+A iOS Native app that demos using Operation Queues and some other cool Swift functional code using the [OpenWeatherMap API](http://openweathermap.org/api) within an iOS application.
 
 ## Getting Started
 
